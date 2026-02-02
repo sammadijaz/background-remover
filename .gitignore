@@ -6,6 +6,8 @@ __pycache__/
 # Virtual environments
 venv/
 env/
+virtualenv311
+
 
 # IDE settings
 .vscode/
@@ -17,3 +19,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# packages
+site-packages
